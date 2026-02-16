@@ -1,0 +1,8 @@
+{
+  "name": "APORT ACADEMY PRO v6",
+  "description": "Enterprise-grade gadget inspection system with AI-Pricing, OCR scanning, and real-time market analytics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
